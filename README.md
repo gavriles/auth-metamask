@@ -1,4 +1,4 @@
-# MetaMask Wallet Integration Project
+# MetaMask Wallet Integration TechSpec
 
 The project demonstrates how to build a simple front-end application that connects to a MetaMask wallet, allowing users to interact with decentralized applications (dApps) directly from their browser. The project employs modern web development tools, specifically focusing on seamless wallet integration.
 
